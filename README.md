@@ -1,6 +1,7 @@
 # alisveris_sepeti
 
-A new Flutter project.
+Flutter alisveris listesi uygulamasi
+Flutter shopping list app
 
 ## Getting Started
 
