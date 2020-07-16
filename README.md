@@ -1,6 +1,7 @@
 # alisveris_sepeti
 
 Flutter alisveris listesi uygulamasi
+
 Flutter shopping list app
 
 ## Getting Started
